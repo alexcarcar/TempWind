@@ -1,19 +1,18 @@
-# 🌤️ React Weather App
+# React Weather App
 
-This is a simple ReactJS application that allows users to input latitude and longitude coordinates and fetch current weather data — including temperature and wind speed — using the [Open-Meteo](https://open-meteo.com/) public API.
-
----
-
-## 🚀 Features
-
-- 🌍 User input for latitude and longitude
-- 🌡️ Displays current temperature (°C)
-- 💨 Displays current wind speed (km/h)
-- 🧼 Clean and minimal UI
+This is a simple ReactJS application that allows users to input latitude and longitude coordinates and fetch current weather data — including temperature and wind speed.
 
 ---
 
-## 🛠️ Getting Started
+## Features
+
+- User input for latitude and longitude
+- Displays current temperature (°C)
+- Displays current wind speed (km/h)
+
+---
+
+## Getting Started
 
 ### Prerequisites
 
